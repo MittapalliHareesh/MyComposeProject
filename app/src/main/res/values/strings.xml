@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DemoProject</string>
+    <string name="overlay_string">My Name is Hitansh Krishna</string>
+    <string name="banner_i_got">I GOT</string>
+    <string name="banner_my">MY</string>
+    <string name="banner_tooth">TOOTH</string>
+    <string name="baby_content_description">Baby lying on a black background</string>
+    <string name="tooth_content_description">Tooth cutout</string>
+    <string name="toothbrush_content_description">Toothbrush</string>
+</resources>
